@@ -10,6 +10,3 @@ Yêu thích phát triển ứng dụng di động và hệ thống thông minh.
 ### 🛠 Tech Stack
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Weii-hub&show_icons=true&theme=radical)
